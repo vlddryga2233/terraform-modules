@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"template","Source":"./modules/instance_template","Dir":"modules/instance_template"},{"Key":"","Source":"","Dir":"."},{"Key":"instance","Source":"./modules/compute_engine","Dir":"modules/compute_engine"}]}
